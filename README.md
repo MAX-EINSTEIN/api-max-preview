@@ -1,0 +1,1 @@
+A simple Rest API for the web app max-preview.
